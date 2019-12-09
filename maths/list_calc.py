@@ -16,7 +16,7 @@ def __init__(leopard):
     super().__init__()
 def num_legs(leopard):
     return 4
-  def talk(leopard):
+def talk(leopard):
     return ''
-  def color(leopard):
+def color(leopard):
     return 'brown' ' ' 'and' ' ' 'black'
