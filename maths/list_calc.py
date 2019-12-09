@@ -14,7 +14,7 @@ def substraction(*args):
 
 def __init__(leopard):
     super().__init__()
-  def num_legs(leopard):
+def num_legs(leopard):
     return 4
   def talk(leopard):
     return ''
